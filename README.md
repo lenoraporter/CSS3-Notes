@@ -16,3 +16,15 @@ CSS3 targets the experience layer. Previously, CSS focused on the critical aspec
 |   Usability   | Visual Rewards |
 | Accessibility |    Feedback    |
 |    Layout     |    Movement    |
+
+
+### CSS3 properties that are usable today
+- Border-radius
+- text-shadow
+- box-shadow
+- box-sizing
+- multiple background images
+- opacity
+- RGBA
+- More at W3C.org
+
