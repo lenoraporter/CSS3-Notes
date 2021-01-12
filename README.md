@@ -10,8 +10,9 @@ June 2011, CSS3 was introduced to modern web browsers. According to the book, CS
 
 CSS3 targets the experience layer. Previously, CSS focused on the critical aspects of UI (Layout, type, color, etc.) while CSS3 is introducing the experience layer to the game (animations, feedback, movement -- previously left to technologies like Flash and JavaScript)
 
-|--Critical --|--Non-Critical--|
-|:------------|:---------------|
-|---Branding--|---Interaction--|
-|Accessibility|----Feedback----|
-|----Layout---|----Movement----|
+|   Critical    |  Non-Critical  |
+|:--------------|:---------------|
+|    Branding   |   Interaction  |
+|   Usability   | Visual Rewards |
+| Accessibility |    Feedback    |
+|    Layout     |    Movement    |
